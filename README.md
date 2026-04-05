@@ -37,6 +37,3 @@ Below is the execution proof from the Postman Collection Runner, demonstrating 1
 4. Select "Environment 1" from the top-right dropdown.
 5. Click **Run Collection**.
 
----
-**Author:** Rahiq Al-Makhtum Rahi  
-**Background:** BSc. in Computer Science and Engineering | [cite_start]CGPA 3.65 [cite: 10, 11]
